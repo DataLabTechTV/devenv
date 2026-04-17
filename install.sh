@@ -1,6 +1,6 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
-set -e
+set -euxo pipefail
 
 if ! type distrobox >/dev/null 2>&1; then
   echo "distrobox: not found"
