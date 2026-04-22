@@ -1,7 +1,7 @@
 # devbox
 
 > [!WARNING]
-> This project has **moved**. It has been integrated into [DLT OS](https://github.com/DataLabTechTV/dltos), and you can now find it under [system_files/etc/distrobox/dltos.ini](https://github.com/DataLabTechTV/dltos/tree/main/system_files/etc/distrobox/dltos.ini).
+> This project has **moved**. It has been integrated into [DLT OS](https://github.com/DataLabTechTV/dltos). You can now find all relevant files under [system_files/etc/distrobox/dltos.ini](https://github.com/DataLabTechTV/dltos/tree/main/system_files/etc/distrobox/dltos.ini) and [system_files/usr/share/dltos](https://github.com/DataLabTechTV/dltos/tree/main/system_files/usr/share/dltos).
 
 <details>
 <summary>Archived</summary>
